@@ -1,0 +1,44 @@
+1 8 6 
+3 5 7 
+4 9 2 
+NOT MAGIC: A column sum is incorrect
+
+2 7 6 
+9 5 1 
+4 3 8 
+MAGIC
+
+2 2 6 
+9 5 1 
+4 3 8 
+NOT MAGIC: Invalid or duplicate number was detected
+
+2 7 6 
+9 5 1 
+4 3 12 
+NOT MAGIC: Invalid or duplicate number was detected
+
+1 2 3 
+4 5 6 
+7 8 9 
+NOT MAGIC: A row sum is incorrect
+
+7 12 1 14 
+2 13 8 11 
+16 3 10 5 
+9 6 15 4 
+MAGIC
+
+17 24 1 8 15 
+23 5 7 14 16 
+4 6 13 20 22 
+10 12 19 21 3 
+11 18 25 2 9 
+MAGIC
+
+16 3 2 13 
+5 10 11 8 
+6 9 7 12 
+4 15 14 1 
+NOT MAGIC: A column sum is incorrect
+
